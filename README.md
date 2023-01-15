@@ -1,5 +1,5 @@
 - 👋 Hi, I’m BNE HASSEN Ayoub
-- 👀 I’m interested in Cybersecurity, Machine learning and Computer vision
+- 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Telecommunication engineering at Higher School of Communication of Tunis - SUP'COM
 - 💞️ I’m looking to collaborate on Cybersecurity projects
 - 📫 How to reach me : E-mail: ayoub.benhassen@supcom.tn
