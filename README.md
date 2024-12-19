@@ -23,6 +23,6 @@ Welcome to my GitHub! I'm a **Telecommunication Engineer** passionate about Cybe
 - 🌐 [Portfolio Website](#)
 - 📧 [Email Me](mailto:ayoub.benhassen@supcom.tn)  
 - 🐦 [X](#)  
-- 💼 [LinkedIn]([https://linkedin.com/in/ayoub-ben-hassen](https://www.linkedin.com/in/ben-hassen-ayoub-5031951ab/))  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/ben-hassen-ayoub-5031951ab/])  
 
 ---
