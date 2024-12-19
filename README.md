@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a **Telecommunication Engineer** passionate about Cybe
 
 ---
 
-## About Me  
+## 👀 About Me  
 
 - 🎓 Telecommunication Engineer From SUP'COM
 - 🔍 **Researcher** in **Cybersecurity**.  
@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a **Telecommunication Engineer** passionate about Cybe
 
 - 🌐 [Portfolio Website](#)
 - 📧 [Email Me](mailto:ayoub.benhassen@supcom.tn)  
-- 🐦 [Twitter](#)  
+- 🐦 [X](#)  
 - 💼 [LinkedIn]([https://linkedin.com/in/ayoub-ben-hassen](https://www.linkedin.com/in/ben-hassen-ayoub-5031951ab/))  
 
 ---
