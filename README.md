@@ -1,4 +1,4 @@
-![Demo GIF](https://www.google.com/search?q=hello+ross+gif&sca_esv=4f30593dcf7dba6b&udm=2&biw=1536&bih=714&sxsrf=ADLYWIKzvDGD1uyL_GVMLwkLykNEMU5fIA%3A1734686744401&ei=GDhlZ8CXGM6o9u8P1o2E6Ak&ved=0ahUKEwjAg8nZg7aKAxVOlP0HHdYGAZ0Q4dUDCBE&uact=5&oq=hello+ross+gif&gs_lp=EgNpbWciDmhlbGxvIHJvc3MgZ2lmMgYQABgIGB4yBhAAGAgYHkjkEVDNC1inEHACeACQAQCYAaABoAG0BKoBAzAuNLgBA8gBAPgBAZgCBqACxwTCAgQQABgewgIGEAAYBxgewgIIEAAYBxgKGB7CAggQABgHGAgYHpgDAIgGAZIHAzIuNKAHmhA&sclient=img#vhid=8dpEULqytzq5AM&vssid=mosaic)
+![Demo GIF](https://giphy.com/gifs/Friends-season-1-episode-10-friends-tv-dWNDTnRbDLSil2VeKx)
 # 👋 Hi there! I'm Ayoub
 
 Welcome! I'm a **PhD candidate** at [Télécom SudParis](https://www.telecom-sudparis.eu/), a part of [IP Paris](https://www.ip-paris.fr/) and a **Telecommunication Engineer** from [SUP'COM](https://www.supcom.tn/). I am passionate about Cybersecurity through innovative research and development. My interests lie in **Blockchain**, **Multi-cloud architecture**, **Cyberdefense**, **SOC**, **SIEM & SOAR systems**, and **Applied research in network security**.
