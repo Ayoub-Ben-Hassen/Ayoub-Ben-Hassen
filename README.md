@@ -1,4 +1,3 @@
-![Demo GIF](rossgeller.gif)
 <div align="center">
   <img src="rossgeller.gif" alt="Demo GIF">
 </div>
