@@ -1,4 +1,4 @@
-![Demo GIF](assets/demo.gif)
+![Demo GIF](assets/rossgeller.gif)
 # 👋 Hi there! I'm Ayoub
 
 Welcome! I'm a **PhD candidate** at [Télécom SudParis](https://www.telecom-sudparis.eu/), a part of [IP Paris](https://www.ip-paris.fr/) and a **Telecommunication Engineer** from [SUP'COM](https://www.supcom.tn/). I am passionate about Cybersecurity through innovative research and development. My interests lie in **Blockchain**, **Multi-cloud architecture**, **Cyberdefense**, **SOC**, **SIEM & SOAR systems**, and **Applied research in network security**.
