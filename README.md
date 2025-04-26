@@ -24,7 +24,7 @@ Welcome! I'm a **PhD candidate** at [Télécom SudParis](https://www.telecom-sud
 ## 💬 Connect with Me  
 
 - 🌐 [Portfolio Website](#)
-- 📧 [Email Me](mailto:ayoub.benhassen@supcom.tn)  
+- 📧 [Email Me](mailto:ayoub.ben_hassen@telecom-sudparis.eu)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ben-hassen-ayoub-5031951ab/)  
 
 ---
