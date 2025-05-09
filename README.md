@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="rossgeller.gif" alt="Demo GIF" style="width:800px; height:auto;">
+  <img src="rossgeller.gif" alt="Demo GIF">
 </div>
 
 # 👋 Hi there! I'm Ayoub
